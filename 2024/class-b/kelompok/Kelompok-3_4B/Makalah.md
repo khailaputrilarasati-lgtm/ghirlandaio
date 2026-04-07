@@ -12,12 +12,13 @@
   Silvi Nur Aini (12402051030048)<br><br><br>
   <br>
   <b>PROGRAM STUDI ILMU PERPUSTAKAAN <br>
-  FAKULTAS ADAB DAN HUMANIORA<b/><br>
+  FAKULTAS ADAB DAN HUMANIORA</b><br>
   <b>UNIVERSITAS ISLAM NEGERI<br>
-  SYARIFHIDAYATULLAH<br>
+  SYARIFHIDAYATULLAH</b><br>
   JAKARTA
-  <b>2026<b/>
+  <b>2026</b>
 </div>
+
 
 # KATA PENGANTAR
 Puji syukur kami panjatkan atas kehadirat Allah Swt yang telah melimpahkan rahmat dan hidayah-Nya sehingga kami dapat 
