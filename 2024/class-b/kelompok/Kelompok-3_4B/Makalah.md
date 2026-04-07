@@ -46,6 +46,25 @@ Adapun tujuan penulisan makalah ini adalah:
 3. Untuk menelusuri implementasi serta kontribusi budaya hacking terhadap perkembangan teknologi dan masyarakat.
 4. Untuk mengetahui sejarah serta pola hubungan antara open source dan closed source dari tahun 1970-an hingga sekarang.
 5. Untuk memberikan analisis mendalam mengenai kaitan antara kode sumber dan ideologi, dalam perspektif ekonomi-politik (Smith, Keynes, Marx, Berlin).
+## PEMBAHASAN
+Dalam Das Kapital, Marx menegaskan bahwa negara bukanlah entitas netral,
+melainkan instrumen kelas berkuasa untuk menjaga sistem produksi kapitalis.
+Kutipan Marx yang terkenal menyebutkan: 
+“The executive of the modern state is but a committee for managing the common affairs of the whole bourgeoisie.” 
+(Das Kapital, Vol. I)
+“Eksekutif dari negara modern tidak lain hanyalah sebuah komite untuk mengurus kepentingan bersama seluruh kelas borjuis.”
+Sejak 1960-an, perkembangan teknologi modern seperti komputerisasi,
+satelit, hingga internet, banyak diarahkan oleh negara. Namun, orientasi
+utamanya bukan sekedar moderenisasi, melainkan teknologimenjadi alat untuk 
+memperkuat akumulasi kapital. Negara mendukung teknologi yang menguntungkan 
+industri besar, sementara inovasi yang berpotensi mengganggu logika kapitalis
+sering kali ditekan atau diatur ketat.
+Dengan demikian, pola hubungan negara dan teknologi menunjukan bahwa 
+teknologi diposisikan sebagai instrumen politik-ekonomi untuk melanggengkan dominasi kapital, bukan sekedar sarana kemajuan netral.
+Negara sejak 1960-an bukan netral, tapi jadi alat kelas berkuasa. teknologi 
+diarahkan untuk mendukung kepentingan kapitalisme, misalnya lewat riset dan infrastruktur.
+jadi hubungan negara dan teknologi itu negara menjaga agar teknologi tetap meunguntungkan pemilik modal.
+
 
 
 
