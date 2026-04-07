@@ -205,6 +205,10 @@ Dalam prespektif ekonomi, konsep open source dan closed source dapat dipahami me
 <br>
 
 #### **3.1. Kesimpulan**
+</p>
+<p align="justify">
+Perkembangan teknologi sejak tahun 1960 hingga sekarang menunjukkan adanya perubahan pola hubungan yang dinamis antara negara, swasta, dan masyarakat. Pada awalnya, negara memegang peran utama sebagai penggerak dan pendana teknologi, terutama melalui kepentingan militer dan riset dasar. Namun seiring waktu, peran tersebut bergeser menjadi kolaboratif dengan akademisi, lalu berkembang menjadi hubungan dua arah dengan swasta, di mana perusahaan teknologi mengambil alih peran utama dalam inovasi dan komersialisasi, sementara negara berfungsi sebagai regulator dan pendukung. Di sisi lain, inovasi teknologi juga tidak lepas dari peran individu dan mekanisme pasar sebagaimana dijelaskan dalam teori ekonomi klasik, di mana kreativitas, pembagian kerja, dan kepentingan pribadi mendorong kemajuan teknologi. Budaya hacking turut memperkuat perkembangan ini dengan menanamkan nilai keterbukaan, eksperimen, dan kolaborasi, yang kemudian melahirkan banyak teknologi modern. Dalam perkembangannya, muncul tarik-menarik antara prinsip open source yang menekankan kebebasan dan kolaborasi dengan closed source yang berorientasi pada keuntungan dan kontrol, mencerminkan pertentangan antara nilai kolektivisme dan kapitalisme. Oleh karena itu, kondisi yang paling ideal dalam perkembangan teknologi modern adalah adanya keseimbangan antara peran negara, mekanisme pasar, dan inovasi sekaligus menjaga keberlajutan ekonomi.
+</p>
 
 ---
 <br>
