@@ -64,7 +64,6 @@ era manusia super (era AI/Society 5.0), perpustakaan kini memiliki "otak buatan"
   3. Ketersediaan (Availability): Memastikan bahwa sistem perpustakaan dan datanya tetap dapat diakses oleh pengguna yang berwenang saat dibutuhkan tanpa gangguan yang tidak sah.
 
  b.	Prinsip Operasional dan Desain Keamanan
-
 Untuk membangun sistem yang tangguh, pengelola perpustakaan dan arsip digital harus mengikuti prinsip-prinsip desain berikut:
 1. Hak Akses Minimal: Pengguna (staf) atau bagian sistem tidak boleh memiliki hak akses lebih dari yang diperlukan untuk melaksanakan tugas khusus mereka supaya mencegah risiko penyalahgunaan.
 2.	Pertahanan Berlapis: Prosedur keamanan tunggal tidak boleh diandalkan. Sebaliknya, beberapa prosedur harus digunakan secara bersamaan, sehingga meningkatkan upaya yang diperlukan oleh penyerang.
